@@ -1,3 +1,0 @@
-"E:\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\T_virus.dir/objects.a
-E:\mingw64\bin\ar.exe qc CMakeFiles\T_virus.dir/objects.a @CMakeFiles\T_virus.dir\objects1.rsp
-E:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\T_virus.dir/objects.a -Wl,--no-whole-archive -o T_virus.exe -Wl,--out-implib,libT_virus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\T_virus.dir\linklibs.rsp

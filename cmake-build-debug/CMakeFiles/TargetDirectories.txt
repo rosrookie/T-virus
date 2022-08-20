@@ -1,3 +1,0 @@
-D:/T-virus/cmake-build-debug/CMakeFiles/T_virus.dir
-D:/T-virus/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/T-virus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
