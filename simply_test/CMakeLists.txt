@@ -4,4 +4,4 @@ project(T_virus)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(T_virus
-        simply_test/helloWorld.cpp)
+        helloWorld.cpp)
